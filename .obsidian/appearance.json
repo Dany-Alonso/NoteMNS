@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Sodalite"
+  "cssTheme": "Sodalite",
+  "showViewHeader": false,
+  "nativeMenus": false
 }
