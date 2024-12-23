@@ -175,7 +175,7 @@ git push origin VX.X.X
 
 
 
-# Installer Git-Cliff
+# <font color="#f79646">Installer Git-Cliff</font>
 
 Dans un terminal :
 ```bash
