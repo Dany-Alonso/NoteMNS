@@ -144,11 +144,12 @@ git merge main
 
 **La nomenclature pour lire une version est la suivante :**
 
-- 1er X : Upgrade majeure
->[!NOTE]
-> La release ce fait souvent sur une autre branche GIT
+- 1er X : Upgrade majeure (release*)
 - 2eme X : Update mineure (ajout de fonctionnalités par exemple)
 - 3eme x : Multiple patch
+
+>[!NOTE]
+> La release ce fait souvent sur une autre branche GIT
 
 *Pour ajouter un tag :*
 ```bash
