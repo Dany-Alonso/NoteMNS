@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,8 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "6a73b0365893afc4",
