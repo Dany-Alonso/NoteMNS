@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "PJ",
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "promptDelete": false
 }

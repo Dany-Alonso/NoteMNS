@@ -4,25 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c74e56c98f0439cb",
+        "id": "2f24ef7e627e9143",
         "type": "tabs",
         "children": [
           {
-            "id": "e38432c9e4909eb8",
+            "id": "769eba4e004f4fae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/OUTILS DU DEV/GIT.md",
+                "file": "Cours/PHP BDD/Gestion des systèmes d'informations.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "Gestion des systèmes d'informations"
+            }
+          },
+          {
+            "id": "d4ee552ec02cddf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/PHP BDD/Gestion des systèmes d'informations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion des systèmes d'informations"
+            }
+          },
+          {
+            "id": "0f5b42e34b1e692c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/PHP BDD/Gestion des systèmes d'informations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion des systèmes d'informations"
+            }
+          },
+          {
+            "id": "6a73b0365893afc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/HTML CSS/HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/OUTILS DU DEV/GIT.md"
+                "file": "Cours/HTML CSS/HTML.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de GIT"
+              "title": "Plan de HTML"
             }
           },
           {
@@ -157,11 +199,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,25 +217,37 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e38432c9e4909eb8",
+  "active": "6a73b0365893afc4",
   "lastOpenFiles": [
-    "Cours/OUTILS DU DEV/Séance 2.md",
+    "Cours/PHP BDD/Gestion des systèmes d'informations.md",
+    "Excalidraw/MCD.md",
+    "PJ/MCD.svg",
+    "Excalidraw/Gestion des systèmes d'informations.excalidraw.md",
+    "Excalidraw/Tableau dictionnaire de données.md",
+    "PJ/BootStrap.svg",
+    "PJ/Gestion des systèmes d'informations.excalidraw.svg",
+    "PJ/Tableau dictionnaire de données.svg",
+    "Excalidraw/Drawing 2025-01-08 10.08.34.excalidraw.md",
+    "Cours/WEB DESIGN/Algo 10-09-2024.md",
+    "Cours/OUTILS DU DEV/BOOTSTRAP.md",
+    "Excalidraw/BootStrap.svg",
+    "Excalidraw/Drawing 2024-12-23 10.58.14.excalidraw.md",
+    "PJ/Gestion des systèmes d'informations.svg",
+    "Cours/HTML CSS/HTML.md",
     "Cours/OUTILS DU DEV/GIT.md",
+    "README.md",
+    "PJ",
     "Veille/Ressources web.md",
     "Cours/JAVASCRIPT",
     "Cours/TRE",
     "Cours/GESTION DE PROJET",
     "Cours/HTML CSS",
     "Cours/PHP BDD",
-    "README.md",
-    "Excalidraw/Drawing 2024-12-23 10.58.14.excalidraw.md",
-    "Cours/WEB DESIGN/Algo 10-09-2024.md",
     "Excalidraw",
     "fonction.md",
     "Cours/WEB DESIGN",
     "Cours/Sans titre 1",
     "Cours/OUTILS DU DEV",
-    "Veille",
     "ALGO/Sommaire.md",
     "Welcome.md"
   ]
