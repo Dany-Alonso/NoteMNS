@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/HTML CSS/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Algo 10-09-2024"
+              "title": "Rétrolien pour HTML"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/HTML CSS/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Algo 10-09-2024"
+              "title": "Liens sortants de HTML"
             }
           },
           {
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6a73b0365893afc4",
+  "active": "b669550fe33c6d7f",
   "lastOpenFiles": [
     "Cours/PHP BDD/Gestion des systèmes d'informations.md",
     "Excalidraw/MCD.md",
