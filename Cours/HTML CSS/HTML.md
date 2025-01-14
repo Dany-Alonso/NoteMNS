@@ -31,4 +31,6 @@ Liens Hypertextes
 
 Les balises meta servent à renseigner des caractéristique concernant la page (les caractères utilisé (UTF-8), "description" qui permet de faire une définition courte de la page, "keywords" pour ajouter l'ensemble des mots clé qu'on aimerait)
 
+![[PJ/Cours-HtmlCSS/readme|readme]]
 
+#html #balise #attribut
