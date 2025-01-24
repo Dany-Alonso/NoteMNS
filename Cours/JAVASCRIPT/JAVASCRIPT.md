@@ -1,0 +1,1 @@
+Le JavaScript (JS) sert à rendre une page web interactif pour l'utilisateur. C'est un langage de programmation de type script qui vas être exécuté par le navigateur

@@ -1,3 +1,4 @@
+# Menu déroulant
 Lorsque vous utilisez un champ <select> avec multiple, ajoutez des crochets [] à l'attribut name pour indiquer que ce champ envoie un tableau de valeurs.
 
 ```
