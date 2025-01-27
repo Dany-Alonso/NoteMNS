@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/PHP BDD SQL/Connexion BDD via Php.md",
+                "file": "Cours/PHP BDD SQL/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connexion BDD via Php"
+              "title": "SQL"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/PHP BDD SQL/Connexion BDD via Php.md"
+                "file": "Cours/PHP BDD SQL/SQL.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Connexion BDD via Php"
+              "title": "Plan de SQL"
             }
           },
           {
@@ -203,11 +203,11 @@
   },
   "active": "8579794b1a78a289",
   "lastOpenFiles": [
-    "Cours/PHP BDD SQL/2025-01-27.md",
+    "Cours/PHP BDD SQL/Gestion des systèmes d'informations.md",
+    "Cours/PHP BDD SQL/SQL.md",
+    "Cours/PHP BDD SQL/Connexion BDD via Php.md",
     "Cours/HTML CSS/CSS.md",
     "Cours/JAVASCRIPT/JAVASCRIPT.md",
-    "Cours/PHP BDD SQL/Connexion BDD via Php.md",
-    "Cours/PHP BDD SQL/Gestion des systèmes d'informations.md",
     "Cours/HTML CSS/HTML.md",
     "Cours/HTML CSS/LES FORMULAIRE.md",
     "Cours/HTML CSS/SELECT MULTIPLE.md",
