@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/PHP BDD SQL/SQL.md",
+                "file": "Cours/HTML CSS/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "CSS"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/PHP BDD SQL/SQL.md"
+                "file": "Cours/HTML CSS/CSS.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de SQL"
+              "title": "Plan de CSS"
             }
           },
           {
@@ -201,16 +201,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8579794b1a78a289",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/PHP BDD SQL/Gestion des systèmes d'informations.md",
+    "Cours/OUTILS DU DEV/GLOSSAIRE TECHNIQUE.md",
+    "Cours/OUTILS DU DEV/GIT.md",
+    "Cours/OUTILS DU DEV/BOOTSTRAP.md",
     "Cours/PHP BDD SQL/SQL.md",
+    "Cours/PHP BDD SQL/Gestion des systèmes d'informations.md",
     "Cours/PHP BDD SQL/Connexion BDD via Php.md",
-    "Cours/HTML CSS/CSS.md",
     "Cours/JAVASCRIPT/JAVASCRIPT.md",
-    "Cours/HTML CSS/HTML.md",
-    "Cours/HTML CSS/LES FORMULAIRE.md",
     "Cours/HTML CSS/SELECT MULTIPLE.md",
+    "Cours/HTML CSS/LES FORMULAIRE.md",
+    "Cours/HTML CSS/HTML.md",
+    "Cours/HTML CSS/CSS.md",
     "Cours/WEB DESIGN/Algo 10-09-2024.md",
     "Cours/PHP BDD/17_01_2025 BDD.md",
     "Cours/WEB DESIGN/2025-01-14.md",
@@ -221,15 +224,12 @@
     "Cours/WEB DESIGN/UXDesign/UX Design - part 2.pdf",
     "Cours/WEB DESIGN/UXDesign",
     "Cours/WEB DESIGN/Sans titre.md",
-    "Cours/OUTILS DU DEV/GLOSSAIRE TECHNIQUE.md",
     "Cours/PHP BDD/2025-01-15.md",
     "PJ/Design Thinking.svg",
     "Excalidraw/Drawing 2025-01-14 13.36.24.excalidraw.md",
     "Excalidraw/MCD.md",
     "Excalidraw/Tableau dictionnaire de données.md",
     "Excalidraw/Gestion des systèmes d'informations.excalidraw.md",
-    "Cours/OUTILS DU DEV/GIT.md",
-    "Cours/OUTILS DU DEV/BOOTSTRAP.md",
     "PJ/Cours-HtmlCSS/readme.md",
     "PJ/Cours-HtmlCSS/feuille.css",
     "PJ/Cours-HtmlCSS/index.html",
