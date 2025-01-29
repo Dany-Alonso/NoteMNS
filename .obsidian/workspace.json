@@ -201,19 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "8579794b1a78a289",
   "lastOpenFiles": [
+    "Cours/PHP BDD SQL/SQL.md",
+    "Cours/PHP BDD SQL/Connexion BDD via Php.md",
+    "Cours/PHP BDD SQL/2025-01-28.md",
+    "Cours/HTML CSS/CSS.md",
     "Cours/OUTILS DU DEV/GLOSSAIRE TECHNIQUE.md",
     "Cours/OUTILS DU DEV/GIT.md",
     "Cours/OUTILS DU DEV/BOOTSTRAP.md",
-    "Cours/PHP BDD SQL/SQL.md",
     "Cours/PHP BDD SQL/Gestion des systèmes d'informations.md",
-    "Cours/PHP BDD SQL/Connexion BDD via Php.md",
     "Cours/JAVASCRIPT/JAVASCRIPT.md",
     "Cours/HTML CSS/SELECT MULTIPLE.md",
     "Cours/HTML CSS/LES FORMULAIRE.md",
     "Cours/HTML CSS/HTML.md",
-    "Cours/HTML CSS/CSS.md",
     "Cours/WEB DESIGN/Algo 10-09-2024.md",
     "Cours/PHP BDD/17_01_2025 BDD.md",
     "Cours/WEB DESIGN/2025-01-14.md",
@@ -244,7 +245,6 @@
     "PJ/Gestion des systèmes d'informations.svg",
     "README.md",
     "PJ",
-    "Veille/Ressources web.md",
     "Cours/JAVASCRIPT"
   ]
 }
