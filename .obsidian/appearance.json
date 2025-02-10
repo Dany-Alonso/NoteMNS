@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "cssTheme": "Sodalite",
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }

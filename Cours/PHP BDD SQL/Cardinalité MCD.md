@@ -1,4 +1,3 @@
-# CARDINALITE MCD
 
 <span style="background:#d4b106">La règle quand 1:N :</span> La clé étrangère qui va référencer la clé primaire de la table en relation ce situera dans la table qui est du côté de la cardinalité max = 1.
 <span style="background:#d4b106">La règle quand N:N :</span> créer une nouvelle entité qui rassemble les 2 clés primaires dans une nouvelle entité (elles deviennent des clés étrangères), elles deviennent donc une clé étrangère une fois réunis dans cette nouvelle entité.
